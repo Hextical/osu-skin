@@ -1,0 +1,1157 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="cherry mx blue_data" version="1.3.0" audacityversion="2.1.3-alpha-Aug 22 2016" sel0="0.0000000000" sel1="0.0907029478" vpos="0" h="0.0000000000" zoom="2963.9820772059" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cbc.au" len="3779" min="-0.999982" max="0.989767" rms="0.058863"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d7.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cherry mx blue" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00501134">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3779">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b9.au" len="3779" min="-0.974066" max="0.947172" rms="0.049296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="221" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
