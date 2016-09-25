@@ -15,3 +15,4 @@ Skin for a rhythm game called: [***osu!***](https://new.ppy.sh/forum)
 ### Notes:
 - Everything is original, **except** the followpoints; sounds are edited
 - [osu! profile](https://new.ppy.sh/u/4329514#osu)
+- Use HighResolution = 1 in your .cfg for this skin to work
