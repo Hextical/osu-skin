@@ -5,12 +5,12 @@ Skin for a rhythm game called: [***osu!***](https://new.ppy.sh/forum)
 - [Adobe Photoshop CC 2015.5](http://www.adobe.com/ca/products/photoshop.html) *(.psd, .png, .jpg)*
 - [Notepad++ 6.9.2](https://notepad-plus-plus.org/download/v6.9.2.html) *(skin.ini)*
 - [Audacity Nightly](http://gaclrecords.org.uk/win-nightly/) *(.aup, .au)*
-- [Pingo 0.16](http://css-ig.net/pingo) *(lossless .png and .jpg compression)*
+- [Pingo 0.2](http://css-ig.net/pingo) *(lossless .png and .jpg compression)*
 
 ### Downloading & Using:
 1. [Download](https://github.com/Hextical/osu-skin/archive/master.zip)
-2. Extract ZIP
-3. Drag & Drop folder into "...osu!\Skins"
+2. Rename .zip to .osk
+3. Open the .osk file
 
 ### Notes:
 - Everything is original, **except** the followpoints; sounds are edited
