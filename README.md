@@ -21,5 +21,4 @@ Skin for a rhythm game called: [**_osu!_**](https://new.ppy.sh/forum)
 -   Everything is original, **except** the followpoints; sounds are edited, (and created)
 -   [osu! profile](https://new.ppy.sh/u/4329514#osu)
 -   Use HighResolution = 1 in your .cfg for this skin to work for this skin to work
--   Find my current skin [here](<>)
-    )
+-   Find my current skin [here](https://github.com/Hextical/current-skin)
