@@ -16,6 +16,10 @@ Skin for a rhythm game called: [**_osu!_**](https://new.ppy.sh/forum)
 2.  Rename .zip to .osk
 3.  Open the .osk file
 
+**OR**
+
+-   Find releases [here](https://github.com/Hextical/osu-skin/releases)
+
 ### Notes:
 
 -   Everything is original, **except** the followpoints; sounds are edited, (and created)
