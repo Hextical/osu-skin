@@ -8,7 +8,7 @@ Skin for a rhythm game called: [**_osu!_**](https://new.ppy.sh/forum)
 -   [Atom](https://github.com/atom/atom) _(README.MD, skin.ini)_
 -   [Atom Beautify](https://github.com/Glavin001/atom-beautify) _(README.md)_
 -   [Audacity](http://gaclrecords.org.uk/win-nightly/) _(.aup, .au)_
--   [Leanify](https://github.com/JayXon/Leanify) _(lightweight lossless file minifier/optimizer)_ **-i 100**
+-   [Efficient Compression Tool](https://github.com/fhanau/Efficient-Compression-Tool) _(lossless file optimizer)_ **-9 -strip**
 
 ### Downloading & Using:
 
@@ -25,4 +25,3 @@ Skin for a rhythm game called: [**_osu!_**](https://new.ppy.sh/forum)
 -   Everything is original, **except** the followpoints; sounds are edited, (and created)
 -   [osu! profile](https://new.ppy.sh/u/4329514#osu)
 -   Use HighResolution = 1 in your .cfg for this skin to work for this skin to work
--   Find my current skin [here](https://github.com/Hextical/current-skin)
